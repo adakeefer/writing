@@ -1,4 +1,4 @@
-# SWE Interview Resource List
+# SWE Resource List
 
 Created: October 20, 2023 9:34 AM
 Tags: Personal Dev, Software Engineering, Work
@@ -13,3 +13,4 @@ This is a compilation of all the resources I’ve used which have helped me grow
 - Algoexpert
 - basecs
 - [https://github.com/gibsjose/cpp-cheat-sheet/tree/master](https://github.com/gibsjose/cpp-cheat-sheet/tree/master)
+- [https://www.youtube.com/watch?v=6avJHaC3C2U](https://www.youtube.com/watch?v=6avJHaC3C2U)
