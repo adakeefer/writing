@@ -19,7 +19,11 @@ During my brief and ugly stint in drawing school we were asked to draw our own h
 
 Then you say hmm, well that still doesn’t look like a real hand. And taking a look at your hand you see it’s full of lines and creases. So you try to replicate that:
 
+![IMG_0768](drawing_img/IMG_0768.jpg)
+
 Then it still doesn’t look right so, like a nutcase, you comb your hands for hidden truths and discover you have depth to your hand where shadows gather and light plays over, so you try to replicate that too:
+
+![IMG_7023](drawing_img/IMG_7023.jpg)
 
 Looks more hand-esque. How did we get to this state? By paying closer and closer attention to our subject. Our brain filters information aggressively, it more or less only pays attention to novel information (1) and ignores the things it knows. Drawing something *********realistic********* requires deep attention to reality. It trains you to really see what you look at, not just scanning it at surface level. 
 
