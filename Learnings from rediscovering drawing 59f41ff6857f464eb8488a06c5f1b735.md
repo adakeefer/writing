@@ -15,7 +15,6 @@ Last year I experimented with drawing for the first time since, remembering I ac
 
 During my brief and ugly stint in drawing school we were asked to draw our own hands. It’s also something I ended up drawing several times because when you draw you tend to look at your hands. So you start, get a rough outline, throw up some guiding boxes and lines, and you end up with something like this:
 
-![IMG_0763](drawing_img/IMG_0763.jpg)
 
 Then you say hmm, well that still doesn’t look like a real hand. And taking a look at your hand you see it’s full of lines and creases. So you try to replicate that:
 
